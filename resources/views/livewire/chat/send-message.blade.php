@@ -1,3 +1,12 @@
 <div>
-    {{-- Nothing in the world is as soft and yielding as water. --}}
+    <form action="">
+        <div class="chatbox_footer">
+            <div class="custom_form_group">
+
+                <input type="text" id="sendMessage" class="control" placeholder="Write message">
+                <button type="submit" class="submit">Send</button>
+            </div>
+
+        </div>
+    </form>
 </div>
